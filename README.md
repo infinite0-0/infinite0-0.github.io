@@ -5,7 +5,7 @@
 
 A peaceful theme for Jekyll and GitHub Pages.
 
-![Screenshot](https://s2.banana.moe/docs/kagami-preview@2x.png)
+![Screenshot](https://github.com/infinite0-0/infinite0-0.github.io/raw/master/preview.jpeg)
 
 ## Installation
 
